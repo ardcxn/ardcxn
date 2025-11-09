@@ -1,33 +1,61 @@
-# Ardcxn
+<!-- Profile README for ardcxn -->
 
-[![GitHub followers](https://img.shields.io/github/followers/ardcxn?style=social)](https://github.com/ardcxn)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ardcxn?style=social)](https://twitter.com/ardcxn)
+<h1 align="center">👋 Hey, I'm ardcxn</h1>
+<h3 align="center">💻 Discord Developer | Automating chaos with code</h3>
 
-Merhaba! Ben Ardcxn. Discord botları geliştiriyorum ve web teknolojileriyle ilgileniyorum.
+<p align="center">
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/ardcxn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://ardcxn.dev"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
-## 🛠️ Teknolojiler
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+### 🧠 About Me
+- 🔭 Currently building **Discord bots** and automation tools  
+- 🌱 Learning and improving my **JavaScript** every day  
+- 💬 Ask me about **Discord.js**, **API integrations**, or **bot hosting**  
+- ⚡ Fun fact: I code better when the music is loud 🎧  
 
-## 📊 GitHub İstatistikleri
+---
 
-[![Ardcxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardcxn&show_icons=true&theme=radical)](https://github.com/ardcxn)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,discord,git,linux" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardcxn&layout=compact&theme=radical)](https://github.com/ardcxn)
+---
 
-## 📫 İletişim
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardcxn&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardcxn&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-- GitHub: [@ardcxn](https://github.com/ardcxn)
-- Discord: ardcxn
+---
 
-## 🌟 Projelerim
+### ⚙️ Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardcxn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- [Discord Bot 1](https://github.com/ardcxn/discord-bot-1) - Örnek Discord botu
-- [Web Projesi](https://github.com/ardcxn/web-project) - Örnek web projesi
+---
 
-## 📈 GitHub Streak
+### 🧩 Discord Presence
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/366388578508341258?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Presence"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ardcxn&theme=radical)](https://git.io/streak-stats)
+---
+
+### ✨ Quote
+> *"Talk is cheap. Show me the code." — Linus Torvalds*
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<!-- End -->
