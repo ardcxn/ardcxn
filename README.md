@@ -1,11 +1,11 @@
 <!-- Profile README for ardcxn -->
 
 <h1 align="center">👋 Hey, I'm ardcxn</h1>
-<h3 align="center">💻 Discord Developer | Automating chaos with code</h3>
+<h3 align="center">💻 Discord & YouTube Developer</h3>
 
 <p align="center">
   <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://github.com/ardcxn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://ardcxn.dev"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -13,16 +13,16 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently building **Discord bots** and automation tools  
-- 🌱 Learning and improving my **JavaScript** every day  
-- 💬 Ask me about **Discord.js**, **API integrations**, or **bot hosting**  
-- ⚡ Fun fact: I code better when the music is loud 🎧  
+- 🔭 Building **Discord bots** and **YouTube automation tools**  
+- 🌱 Always learning new ways to make things faster  
+- 💬 Ask me about **Discord.js**, **YouTube APIs**, or **automation**  
+- ⚡ Fun fact: I automate everything I can 😅  
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,discord,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,discord,youtube,git,linux" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ---
 
 ### ✨ Quote
-> *"Talk is cheap. Show me the code." — Linus Torvalds*
+> *"Create. Automate. Dominate."*
 
 ---
 
