@@ -40,18 +40,6 @@
 
 ---
 
-### 🧩 Discord Presence
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/366388578508341258?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Presence"/>
-</p>
-
----
-
-### ✨ Quote
-> *"Create. Automate. Dominate."*
-
----
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
