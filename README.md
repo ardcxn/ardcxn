@@ -25,8 +25,8 @@ Merhaba! Ben Ardcxn. Discord botları geliştiriyorum ve web teknolojileriyle il
 
 ## 🌟 Projelerim
 
-- [Discord Bot 1](https://github.com/ardcxn/discord-bot-1) - Örnek Discord botu
-- [Web Projesi](https://github.com/ardcxn/web-project) - Örnek web projesi
+- [Discord Bot 1](https://github.com/ardcxn/) - Örnek Discord botu
+- [Web Projesi](https://github.com/ardcxn/) - Örnek web projesi
 
 ## 📈 GitHub Streak
 
