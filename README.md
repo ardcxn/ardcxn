@@ -1,43 +1,33 @@
-# 👋 Hey! Ben Ardcxn 🪐
+# Ardcxn
 
-Ben bir **Full Stack Developer**’ım — kod yazmayı, yeni şeyler öğrenmeyi ve fikirleri **gerçek projelere dönüştürmeyi** seviyorum!  
-Şu anda özellikle **Discord botları** geliştiriyorum ve topluluk yönetimini kolaylaştıracak yaratıcı çözümler üzerinde çalışıyorum. 💡
+[![GitHub followers](https://img.shields.io/github/followers/ardcxn?style=social)](https://github.com/ardcxn)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ardcxn?style=social)](https://twitter.com/ardcxn)
 
----
+Merhaba! Ben Ardcxn. Discord botları geliştiriyorum ve web teknolojileriyle ilgileniyorum.
 
-### 🚀 Hakkımda
-- 💻 Kullandığım teknolojiler: **JavaScript**, **HTML**, **CSS**
-- 🤖 Şu anda: **Discord botları geliştiriyorum**
-- 🎨 İlgi alanlarım: tasarım, yapay zekâ, topluluk sistemleri, yeni fikirlerle oynamak
-- 🧠 Sürekli olarak “nasıl daha iyi yapabilirim?” sorusunu sorarım
+## 🛠️ Teknolojiler
 
----
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-### ⚡️ Bazı GitHub İstatistiklerim
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardcxn&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardcxn&layout=compact&theme=tokyonight)
+## 📊 GitHub İstatistikleri
 
----
+[![Ardcxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardcxn&show_icons=true&theme=radical)](https://github.com/ardcxn)
 
-### 🛠️ Şu anda üzerinde çalıştıklarım
-- 🔹 Yeni nesil bir **Discord botu**
-- 🔹 Geliştirici discord araçları
-- 🔹 Profesyonel web siteleri
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardcxn&layout=compact&theme=radical)](https://github.com/ardcxn)
 
----
+## 📫 İletişim
 
-### 🌌 Bana dair bir şeyler
-> “Küçük projeler büyük fikirlerin tohumudur.” 🌱  
+- GitHub: [@ardcxn](https://github.com/ardcxn)
+- Discord: ardcxn
 
-Eğer **açık kaynak** veya **Discord geliştirme** konularına ilgin varsa,  
-yıldız bırakmayı veya projelere göz atmayı unutma ⭐  
+## 🌟 Projelerim
 
----
+- [Discord Bot 1](https://github.com/ardcxn/discord-bot-1) - Örnek Discord botu
+- [Web Projesi](https://github.com/ardcxn/web-project) - Örnek web projesi
 
-#### 🎭 Sosyal
-🎧 Discord topluluklarında aktifiz!  
-Yakında: özel bot showcase ve açık kaynak Discord modülleri 🤫
+## 📈 GitHub Streak
 
----
-
-🛰️ *Kodla, dene, boz, tekrar yap. Çünkü her hata yeni bir şey öğretir.*  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ardcxn&theme=radical)](https://git.io/streak-stats)
