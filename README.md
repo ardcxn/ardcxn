@@ -1,9 +1,43 @@
-<h1 align="center">Hi 👋, I'm Arda</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+# 👋 Hey! Ben Arda | ard.cx 🪐
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Ben bir **Developer**’ım — kod yazmayı, yeni şeyler öğrenmeyi ve fikirleri **gerçek projelere dönüştürmeyi** seviyorum!  
+Şu anda özellikle **Discord botları** geliştiriyorum ve topluluk yönetimini kolaylaştıracak yaratıcı çözümler üzerinde çalışıyorum. 💡
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Hakkımda
+- 💻 Kullandığım teknolojiler: **JavaScript**, **HTML**, **CSS**
+- 🤖 Şu anda: **Discord botları geliştiriyorum**
+- 🎨 İlgi alanlarım: tasarım, yapay zekâ, topluluk sistemleri, yeni fikirlerle oynamak
+- 🧠 Sürekli olarak “nasıl daha iyi yapabilirim?” sorusunu sorarım
+
+---
+
+### ⚡️ Bazı GitHub İstatistiklerim
+![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardcxn&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardcxn&layout=compact&theme=tokyonight)
+
+---
+
+### 🛠️ Şu anda üzerinde çalıştıklarım
+- 🔹 Yeni nesil bir **Discord botu**
+- 🔹 Geliştirici dostu araçlar
+- 🔹 Basit ama etkili web arayüzleri
+
+---
+
+### 🌌 Bana dair bir şeyler
+> “Küçük projeler büyük fikirlerin tohumudur.” 🌱  
+
+Eğer **açık kaynak** veya **Discord geliştirme** konularına ilgin varsa,  
+yıldız bırakmayı veya projelere göz atmayı unutma ⭐  
+
+---
+
+#### 🎭 Sosyal
+🎧 Discord topluluklarında aktifiz!  
+Yakında: özel bot showcase ve açık kaynak Discord modülleri 🤫
+
+---
+
+🛰️ *Kodla, dene, boz, tekrar yap. Çünkü her hata yeni bir şey öğretir.*  
