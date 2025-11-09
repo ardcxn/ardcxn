@@ -1,6 +1,6 @@
-# 👋 Hey! Ben Arda | ard.cx 🪐
+# 👋 Hey! Ben Ardcxn 🪐
 
-Ben bir **Developer**’ım — kod yazmayı, yeni şeyler öğrenmeyi ve fikirleri **gerçek projelere dönüştürmeyi** seviyorum!  
+Ben bir **Full Stack Developer**’ım — kod yazmayı, yeni şeyler öğrenmeyi ve fikirleri **gerçek projelere dönüştürmeyi** seviyorum!  
 Şu anda özellikle **Discord botları** geliştiriyorum ve topluluk yönetimini kolaylaştıracak yaratıcı çözümler üzerinde çalışıyorum. 💡
 
 ---
@@ -21,8 +21,8 @@ Ben bir **Developer**’ım — kod yazmayı, yeni şeyler öğrenmeyi ve fikirl
 
 ### 🛠️ Şu anda üzerinde çalıştıklarım
 - 🔹 Yeni nesil bir **Discord botu**
-- 🔹 Geliştirici dostu araçlar
-- 🔹 Basit ama etkili web arayüzleri
+- 🔹 Geliştirici discord araçları
+- 🔹 Profesyonel web siteleri
 
 ---
 
