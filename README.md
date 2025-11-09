@@ -1,7 +1,7 @@
 <!-- Profile README for ardcxn -->
 
 <h1 align="center">👋 Hey, I'm ardcxn</h1>
-<h3 align="center">💻 Discord & YouTube Developer</h3>
+<h3 align="center">💻 Discord Bot's Developer</h3>
 
 <p align="center">
   <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -11,10 +11,11 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Building **Discord bots** and **YouTube automation tools**  
-- 🌱 Always learning new ways to make things faster  
-- 💬 Ask me about **Discord.js**, **YouTube APIs**, or **automation**  
-- ⚡ Fun fact: I automate everything I can 😅  
+- 🔭 Building **Discord bots**  
+- 🌱 Always learning new ways to improve my bots  
+- 💬 Ask me about **Discord.js**, **bot development**, or **automation**  
+- ⚡ Fun fact: I automate everything I can 😅
+
 
 ---
 
