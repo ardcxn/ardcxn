@@ -6,8 +6,6 @@
 <p align="center">
   <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://github.com/ardcxn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://ardcxn.dev"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,discord,youtube,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,discord,youtube,git" />
 </p>
 
 ---
